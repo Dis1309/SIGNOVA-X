@@ -1,0 +1,10 @@
+flask
+opencv-python
+pillow
+pandas
+scikit-learn
+vidgear
+keras
+tensorflow
+cvzone
+mediapipe
