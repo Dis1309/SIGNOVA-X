@@ -16,6 +16,7 @@ SignovaX empowers users to communicate, connect, and live with confidence, knowi
 
 - [Disha Dwivedi](https://github.com/Dis1309)
 - [Vanshika Malik](https://github.com/Vanshika-Malik2004)
+- [Shreya Singh](https://github.com/starliterss)
 - [Sweta Singh](https://github.com/swetasingh8844)
 
 ---
